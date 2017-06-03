@@ -1,18 +1,18 @@
-<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="christinehjalager.com" resolutions="1x" timestamp="1496485576155">
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="christinehjalager.com" resolutions="1x" timestamp="1496488558330">
   <folder name="assets">
     <file name="cv-christine-louise-rothmann-hjalager2.pdf" crc="4143973839" seo="true" mt="1496429166000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="434739186"/>
-    <file name="master_a-master.css" crc="239093141" ref="refuge:portfolio:index:lavender:cv:personal-profile:nina:contact"/>
-    <file name="refuge.css" crc="84854158" ref="refuge"/>
-    <file name="portfolio.css" crc="197967980" ref="portfolio"/>
-    <file name="index.css" crc="4068343923" ref="index"/>
-    <file name="lavender.css" crc="3860377663" ref="lavender"/>
-    <file name="cv.css" crc="4241675702" ref="cv"/>
-    <file name="personal-profile.css" crc="283899345" ref="personal-profile"/>
-    <file name="nina.css" crc="499678271" ref="nina"/>
-    <file name="contact.css" crc="389322569" ref="contact"/>
+    <file name="master_a-master.css" crc="162912242" ref="refuge:portfolio:index:lavender:cv:personal-profile:nina:contact"/>
+    <file name="refuge.css" crc="112572396" ref="refuge"/>
+    <file name="portfolio.css" crc="4012150507" ref="portfolio"/>
+    <file name="index.css" crc="232566527" ref="index"/>
+    <file name="lavender.css" crc="4261863861" ref="lavender"/>
+    <file name="cv.css" crc="4172756292" ref="cv"/>
+    <file name="personal-profile.css" crc="456889303" ref="personal-profile"/>
+    <file name="nina.css" crc="311642412" ref="nina"/>
+    <file name="contact.css" crc="333311374" ref="contact"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="312386352" ref="index:personal-profile:cv:contact:portfolio:lavender:nina:refuge"/>
@@ -27,7 +27,7 @@
   </folder>
   <folder name="images">
     <file name="u179-7.png" crc="4112761933" ref="index:personal-profile:cv:contact:portfolio:lavender:nina:refuge"/>
-    <file name="arrowmenudown.png" crc="345214036" ref="index:cv"/>
+    <file name="arrowmenudown.png" crc="345214036" ref="index"/>
     <file name="u1301-4.png" crc="425064367" ref="index"/>
     <file name="img_2679-crop-u1661.jpg" crc="4135382249" ref="index"/>
     <file name="u1295-4.png" crc="4293123518" ref="personal-profile"/>
@@ -82,12 +82,12 @@
     <file name="screen shot 2017-05-28 at 115021.jpg" crc="3817959788" ref="refuge"/>
     <file name="screen shot 2017-05-28 at 115312.jpg" crc="3828215962" ref="refuge"/>
   </folder>
-  <file name="index.html" crc="505852626" seo="true" mt="1496429061609" redirect="true"/>
-  <file name="personal-profile.html" crc="259418746" seo="true" mt="1496429061609" redirect="true"/>
-  <file name="cv.html" crc="26671577" seo="true" mt="1496485534268" redirect="true"/>
-  <file name="contact.html" crc="428199252" seo="true" mt="1496485067904" redirect="true"/>
-  <file name="portfolio.html" crc="1202159" seo="true" mt="1496429061609" redirect="true"/>
-  <file name="lavender.html" crc="289306742" seo="true" mt="1496429061609" redirect="true"/>
-  <file name="nina.html" crc="3900175624" seo="true" mt="1496429061609" redirect="true"/>
-  <file name="refuge.html" crc="4111069326" seo="true" mt="1496429061609" redirect="true"/>
+  <file name="index.html" crc="209789596" seo="true" mt="1496488523711" redirect="true"/>
+  <file name="personal-profile.html" crc="198367459" seo="true" mt="1496487983849" redirect="true"/>
+  <file name="cv.html" crc="3821109901" seo="true" mt="1496487983849" redirect="true"/>
+  <file name="contact.html" crc="357432070" seo="true" mt="1496487983849" redirect="true"/>
+  <file name="portfolio.html" crc="10982320" seo="true" mt="1496487983849" redirect="true"/>
+  <file name="lavender.html" crc="21796258" seo="true" mt="1496487983849" redirect="true"/>
+  <file name="nina.html" crc="4247978337" seo="true" mt="1496487983849" redirect="true"/>
+  <file name="refuge.html" crc="477981573" seo="true" mt="1496487983849" redirect="true"/>
 </manifest>
