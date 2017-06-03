@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="christinehjalager.com" resolutions="1x" timestamp="1496429202356">
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="christinehjalager.com" resolutions="1x" timestamp="1496485576155">
   <folder name="assets">
     <file name="cv-christine-louise-rothmann-hjalager2.pdf" crc="4143973839" seo="true" mt="1496429166000"/>
   </folder>
@@ -9,10 +9,10 @@
     <file name="portfolio.css" crc="197967980" ref="portfolio"/>
     <file name="index.css" crc="4068343923" ref="index"/>
     <file name="lavender.css" crc="3860377663" ref="lavender"/>
-    <file name="cv.css" crc="4267542957" ref="cv"/>
+    <file name="cv.css" crc="4241675702" ref="cv"/>
     <file name="personal-profile.css" crc="283899345" ref="personal-profile"/>
     <file name="nina.css" crc="499678271" ref="nina"/>
-    <file name="contact.css" crc="251413537" ref="contact"/>
+    <file name="contact.css" crc="389322569" ref="contact"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="312386352" ref="index:personal-profile:cv:contact:portfolio:lavender:nina:refuge"/>
@@ -27,7 +27,7 @@
   </folder>
   <folder name="images">
     <file name="u179-7.png" crc="4112761933" ref="index:personal-profile:cv:contact:portfolio:lavender:nina:refuge"/>
-    <file name="arrowmenudown.png" crc="345214036" ref="index"/>
+    <file name="arrowmenudown.png" crc="345214036" ref="index:cv"/>
     <file name="u1301-4.png" crc="425064367" ref="index"/>
     <file name="img_2679-crop-u1661.jpg" crc="4135382249" ref="index"/>
     <file name="u1295-4.png" crc="4293123518" ref="personal-profile"/>
@@ -84,8 +84,8 @@
   </folder>
   <file name="index.html" crc="505852626" seo="true" mt="1496429061609" redirect="true"/>
   <file name="personal-profile.html" crc="259418746" seo="true" mt="1496429061609" redirect="true"/>
-  <file name="cv.html" crc="199745024" seo="true" mt="1496429182350" redirect="true"/>
-  <file name="contact.html" crc="113834587" seo="true" mt="1496429061609" redirect="true"/>
+  <file name="cv.html" crc="26671577" seo="true" mt="1496485534268" redirect="true"/>
+  <file name="contact.html" crc="428199252" seo="true" mt="1496485067904" redirect="true"/>
   <file name="portfolio.html" crc="1202159" seo="true" mt="1496429061609" redirect="true"/>
   <file name="lavender.html" crc="289306742" seo="true" mt="1496429061609" redirect="true"/>
   <file name="nina.html" crc="3900175624" seo="true" mt="1496429061609" redirect="true"/>
