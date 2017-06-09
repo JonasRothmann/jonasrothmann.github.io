@@ -1,18 +1,18 @@
-<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="christinehjalager.com" resolutions="1x" timestamp="1496759759286">
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="christinehjalager.com" resolutions="1x" timestamp="1497006877496">
   <folder name="assets">
     <file name="cv-christine-louise-rothmann-hjalager2.pdf" crc="4143973839" seo="true" mt="1496429166000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="434739186"/>
-    <file name="master_a-master.css" crc="3908848811" ref="refuge:portfolio:index:lavender:cv:personal-profile:nina:contact"/>
-    <file name="refuge.css" crc="4215911245" ref="refuge"/>
-    <file name="portfolio.css" crc="4177031100" ref="portfolio"/>
-    <file name="index.css" crc="70264450" ref="index"/>
-    <file name="lavender.css" crc="211035974" ref="lavender"/>
-    <file name="cv.css" crc="3919932880" ref="cv"/>
-    <file name="personal-profile.css" crc="87587059" ref="personal-profile"/>
-    <file name="nina.css" crc="4027135077" ref="nina"/>
-    <file name="contact.css" crc="3764974835" ref="contact"/>
+    <file name="master_a-master.css" crc="141553918" ref="refuge:portfolio:index:lavender:cv:personal-profile:nina:contact"/>
+    <file name="refuge.css" crc="464131559" ref="refuge"/>
+    <file name="portfolio.css" crc="3926476289" ref="portfolio"/>
+    <file name="index.css" crc="322036822" ref="index"/>
+    <file name="lavender.css" crc="97162772" ref="lavender"/>
+    <file name="cv.css" crc="8458434" ref="cv"/>
+    <file name="personal-profile.css" crc="4210714885" ref="personal-profile"/>
+    <file name="nina.css" crc="214297824" ref="nina"/>
+    <file name="contact.css" crc="37111987" ref="contact"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="312386352" ref="index:personal-profile:cv:contact:portfolio:lavender:nina:refuge"/>
@@ -26,21 +26,12 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="4034513494" ref="portfolio:lavender:nina:refuge"/>
   </folder>
   <folder name="images">
-    <file name="arrowmenudown.png" crc="345214036" ref="index:cv"/>
-    <file name="u1301-4.png" crc="425064367" ref="index"/>
+    <file name="arrowmenudown.png" crc="345214036" ref="index"/>
     <file name="img_2679-crop-u1661.jpg" crc="4135382249" ref="index"/>
-    <file name="u1295-4.png" crc="4293123518" ref="personal-profile"/>
     <file name="1383803_10202237001345142_590324644_n - kopi.jpg" crc="320386950" seo="true" ref="personal-profile"/>
-    <file name="u1289-4.png" crc="268743778" ref="cv"/>
-    <file name="u1363-4.png" crc="4287437476" ref="contact"/>
     <file name="img_2719.jpg" crc="88212163" ref="portfolio:nina"/>
-    <file name="u832-4.png" crc="4096940530" ref="portfolio"/>
-    <file name="u1298-4.png" crc="3870446374" ref="portfolio"/>
     <file name="screen shot 2017-05-28 at 114740.jpg" crc="3990057059" ref="portfolio"/>
-    <file name="u835-4.png" crc="3847948963" ref="portfolio"/>
     <file name="screen shot 2017-05-28 at 131913.jpg" crc="388392953" ref="portfolio"/>
-    <file name="u838-4.png" crc="328069256" ref="portfolio"/>
-    <file name="u1036-4.png" crc="3900008607" ref="lavender"/>
     <file name="dsc_2375.jpg" crc="485231969" ref="lavender"/>
     <file name="screen shot 2017-05-28 at 130842.jpg" crc="3822512664" ref="lavender"/>
     <file name="screen shot 2017-05-28 at 131002.jpg" crc="4156498754" ref="lavender"/>
@@ -62,14 +53,12 @@
     <file name="18767146_10213275305295842_24819_o.jpg" crc="3858650823" ref="nina"/>
     <file name="img_2684.jpg" crc="4229078014" ref="nina"/>
     <file name="img_2722.jpg" crc="4039893178" ref="nina"/>
-    <file name="u1268-4.png" crc="4106138239" ref="nina"/>
     <file name="17861640_1872843356263859_425632102389152102_n.jpg" crc="210226437" ref="nina"/>
     <file name="17884248_1872843359597192_3041491610012450945_n.jpg" crc="3974823833" ref="nina"/>
     <file name="dsc_2838.jpg" crc="182381376" ref="nina"/>
     <file name="18745419_10213275364457321_1063166223_o.jpg" crc="3907973212" ref="nina"/>
     <file name="img_2789.jpg" crc="529721053" ref="nina"/>
     <file name="18767162_10213275361657251_623517999_o.jpg" crc="153686478" ref="nina"/>
-    <file name="u1033-4.png" crc="4174100146" ref="refuge"/>
     <file name="screen shot 2017-05-28 at 114011.jpg" crc="30232472" ref="refuge"/>
     <file name="screen shot 2017-05-28 at 114455.jpg" crc="3993651627" ref="refuge"/>
     <file name="screen shot 2017-05-28 at 114245.jpg" crc="4138988411" ref="refuge"/>
@@ -80,14 +69,13 @@
     <file name="screen shot 2017-05-28 at 114625.jpg" crc="203824476" ref="refuge"/>
     <file name="screen shot 2017-05-28 at 115021.jpg" crc="3817959788" ref="refuge"/>
     <file name="screen shot 2017-05-28 at 115312.jpg" crc="3828215962" ref="refuge"/>
-    <file name="u179-9.png" crc="4141386441" ref="index:personal-profile:cv:contact:portfolio:lavender:nina:refuge"/>
   </folder>
-  <file name="index.html" crc="4158751286" seo="true" mt="1496759521437" redirect="true"/>
-  <file name="personal-profile.html" crc="4252024442" seo="true" mt="1496759739493" redirect="true"/>
-  <file name="cv.html" crc="6980717" seo="true" mt="1496759347355" redirect="true"/>
-  <file name="contact.html" crc="328069219" seo="true" mt="1496758962365" redirect="true"/>
-  <file name="portfolio.html" crc="3989434067" seo="true" mt="1496758962365" redirect="true"/>
-  <file name="lavender.html" crc="265002533" seo="true" mt="1496758962365" redirect="true"/>
-  <file name="nina.html" crc="144604564" seo="true" mt="1496758962365" redirect="true"/>
-  <file name="refuge.html" crc="94037194" seo="true" mt="1496758962365" redirect="true"/>
+  <file name="index.html" crc="60548290" seo="true" mt="1497006793146" redirect="true"/>
+  <file name="personal-profile.html" crc="459924439" seo="true" mt="1497006413290" redirect="true"/>
+  <file name="cv.html" crc="152697682" seo="true" mt="1497006399578" redirect="true"/>
+  <file name="contact.html" crc="4010179139" seo="true" mt="1497006429091" redirect="true"/>
+  <file name="portfolio.html" crc="3909687933" seo="true" mt="1497006381200" redirect="true"/>
+  <file name="lavender.html" crc="4245348206" seo="true" mt="1497006381200" redirect="true"/>
+  <file name="nina.html" crc="40188605" seo="true" mt="1497006441932" redirect="true"/>
+  <file name="refuge.html" crc="4249674703" seo="true" mt="1497006435969" redirect="true"/>
 </manifest>
